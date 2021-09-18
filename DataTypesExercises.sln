@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutput", "DataTypesExe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericTypes", "NumericTypes\NumericTypes.csproj", "{DA2E7370-5009-4567-8C69-380A9038F2E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilesperGallon", "MilesperGallon\MilesperGallon.csproj", "{BFF081B2-B589-470C-A3BC-823F6C961AD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DA2E7370-5009-4567-8C69-380A9038F2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA2E7370-5009-4567-8C69-380A9038F2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA2E7370-5009-4567-8C69-380A9038F2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF081B2-B589-470C-A3BC-823F6C961AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF081B2-B589-470C-A3BC-823F6C961AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF081B2-B589-470C-A3BC-823F6C961AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF081B2-B589-470C-A3BC-823F6C961AD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
