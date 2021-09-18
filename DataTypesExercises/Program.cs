@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DataTypesExercises
+namespace InputOutput
 {
     class Program
     {

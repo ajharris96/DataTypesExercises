@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypesExercises", "DataTypesExercises\DataTypesExercises.csproj", "{1997C2E8-478F-49E1-9889-6733F8D3B035}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutput", "DataTypesExercises\InputOutput.csproj", "{1997C2E8-478F-49E1-9889-6733F8D3B035}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericTypes", "NumericTypes\NumericTypes.csproj", "{DA2E7370-5009-4567-8C69-380A9038F2E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1997C2E8-478F-49E1-9889-6733F8D3B035}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1997C2E8-478F-49E1-9889-6733F8D3B035}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1997C2E8-478F-49E1-9889-6733F8D3B035}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA2E7370-5009-4567-8C69-380A9038F2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2E7370-5009-4567-8C69-380A9038F2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2E7370-5009-4567-8C69-380A9038F2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2E7370-5009-4567-8C69-380A9038F2E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
